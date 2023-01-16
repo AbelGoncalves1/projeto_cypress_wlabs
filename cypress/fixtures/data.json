@@ -1,0 +1,11 @@
+{
+	"baseUrl": "https://apicep.com/api-de-consulta/",
+	"cepValido": "20211-110",
+	"cepInvalido": "0000000",
+	"endValido": {
+		"estado": "RJ",
+		"cidade": "Rio de Janeiro",
+		"bairro": "Cidade Nova",
+		"endereco": "Rua Afonso Cavalcanti"
+	}
+}
